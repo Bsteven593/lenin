@@ -21,6 +21,11 @@ public class Curso {
 
     @Column(name = "numero_curso")
     public String numero_curso;
+    public Object getNumero_curso;
+    public void setNombre_curso(Object getNumero_curso2) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setNombre_curso'");
+    }
  
 
    
